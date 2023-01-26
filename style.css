@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+  .center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+
+  .img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    }
